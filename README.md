@@ -35,3 +35,11 @@ Welcome to the **Timer App** — a simple and clean countdown tool that helps yo
 - Simply download the project or fork it.
 - Open the `index.html` file in your browser.
 - Enjoy using your timer! ⏱️
+
+- ---
+
+## 💬 Feedback
+
+Found a bug or want to suggest an improvement?  
+Feel free to open an [issue](https://github.com/Baljann/timer-app/issues) or submit a pull request. Contributions are warmly welcome! 🚀
+
