@@ -32,6 +32,6 @@ Welcome to the **Timer App** — a simple and clean countdown tool that helps yo
 
 ## 📂 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/timer-app.git
+- Simply download the project or fork it.
+- Open the `index.html` file in your browser.
+- Enjoy using your timer! ⏱️
